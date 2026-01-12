@@ -1,0 +1,19 @@
+Build Smarter AI Apps Empower LLMs with LangChain.ipynb
+.env
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.log
+*.sqlite3
+*.db
+*.env
+*.env.*
+.idea/
+.vscode/
+coverage/
