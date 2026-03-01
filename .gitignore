@@ -20,3 +20,5 @@ coverage/
 gradio/
 icebreaker/
 multimodal/
+Paestum/*
+image*
