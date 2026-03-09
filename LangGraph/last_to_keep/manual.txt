@@ -1,0 +1,6 @@
+git clone --no-checkout https://github.com/ibm-developer-skills-network/zzpwx-docchat.git docchat
+cd docchat
+git checkout 2-final
+
+python3.11 -m venv venv
+source venv/bin/activate

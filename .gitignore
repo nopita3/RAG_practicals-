@@ -22,3 +22,6 @@ icebreaker/
 multimodal/
 Paestum/*
 image*
+*.pdf
+*.csv
+*.sql
